@@ -6,3 +6,8 @@ h1 {
   color: white;
   background-color: coral;
 }
+
+#box{
+  border-style:solid;
+  padding:20px
+}
